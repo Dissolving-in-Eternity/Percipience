@@ -1,0 +1,9 @@
+D:\Dev\Percipience\Percipience\Shared\bin\Debug\netstandard2.1\Percipience.Shared.deps.json
+D:\Dev\Percipience\Percipience\Shared\bin\Debug\netstandard2.1\Percipience.Shared.dll
+D:\Dev\Percipience\Percipience\Shared\bin\Debug\netstandard2.1\Percipience.Shared.pdb
+D:\Dev\Percipience\Percipience\Shared\obj\Debug\netstandard2.1\Percipience.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Percipience\Percipience\Shared\obj\Debug\netstandard2.1\Percipience.Shared.AssemblyInfoInputs.cache
+D:\Dev\Percipience\Percipience\Shared\obj\Debug\netstandard2.1\Percipience.Shared.AssemblyInfo.cs
+D:\Dev\Percipience\Percipience\Shared\obj\Debug\netstandard2.1\Percipience.Shared.csproj.CoreCompileInputs.cache
+D:\Dev\Percipience\Percipience\Shared\obj\Debug\netstandard2.1\Percipience.Shared.dll
+D:\Dev\Percipience\Percipience\Shared\obj\Debug\netstandard2.1\Percipience.Shared.pdb
